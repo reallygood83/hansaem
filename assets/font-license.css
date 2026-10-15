@@ -1,0 +1,145 @@
+/*
+ * Pretendard 정적 서브셋 (VLOW-78)
+ *
+ * 원본: pretendard.css (웨이트당 약 786KB, 글리프 14,336자)
+ * 서브셋: 웨이트당 약 207KB — KS X 1001 상용 2,350자 + 기호 + ASCII
+ *
+ * 한샘몰 운영 페이지 실측 문자 985자 중 979자(99.4%)가 KS X 1001 에 포함된다.
+ * 원본 폰트에 한자 글리프가 0자이므로 한자는 서브셋 이전에도 폴백 대상이었다.
+ *
+ * URL 은 상대경로다. CSS 를 올린 자산 호스트(dev/stg/운영)를 기준으로
+ * 해석되므로 파일 하나로 전 스테이지가 동작한다. 절대경로를 쓰면
+ * dev 에서도 운영 폰트를 찾아가 403 이 난다.
+ *
+ * woff2 / woff / ttf 세 포맷 모두 서브셋을 가리킨다.
+ * 폴백을 원본으로 두면 woff2 업로드 누락 시 브라우저가 조용히
+ * 원본 woff(1.1MB)로 넘어가 전송량이 오히려 늘어난다.
+ *   ./subset/woff2/   웨이트당 약 207KB
+ *   ./subset/woff/   웨이트당 약 269KB
+ *   ./subset/ttf/    웨이트당 약 510KB
+ */
+/*
+Copyright (c) 2021 Kil Hyung-jin, with Reserved Font Name Pretendard.
+https://github.com/orioncactus/pretendard
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+*/
+
+@font-face {
+  font-family: "Pretendard";
+  font-weight: 900;
+  font-display: swap;
+  src: local("Pretendard Black"),
+    url("./subset/woff2/Pretendard-Black.woff2")
+      format("woff2"),
+    url("./subset/woff/Pretendard-Black.woff")
+      format("woff"),
+    url("./subset/ttf/Pretendard-Black.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: "Pretendard";
+  font-weight: 800;
+  font-display: swap;
+  src: local("Pretendard ExtraBold"),
+    url("./subset/woff2/Pretendard-ExtraBold.woff2")
+      format("woff2"),
+    url("./subset/woff/Pretendard-ExtraBold.woff")
+      format("woff"),
+    url("./subset/ttf/Pretendard-ExtraBold.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: "Pretendard";
+  font-weight: 700;
+  font-display: swap;
+  src: local("Pretendard Bold"),
+    url("./subset/woff2/Pretendard-Bold.woff2")
+      format("woff2"),
+    url("./subset/woff/Pretendard-Bold.woff")
+      format("woff"),
+    url("./subset/ttf/Pretendard-Bold.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: "Pretendard";
+  font-weight: 600;
+  font-display: swap;
+  src: local("Pretendard SemiBold"),
+    url("./subset/woff2/Pretendard-SemiBold.woff2")
+      format("woff2"),
+    url("./subset/woff/Pretendard-SemiBold.woff")
+      format("woff"),
+    url("./subset/ttf/Pretendard-SemiBold.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: "Pretendard";
+  font-weight: 500;
+  font-display: swap;
+  src: local("Pretendard Medium"),
+    url("./subset/woff2/Pretendard-Medium.woff2")
+      format("woff2"),
+    url("./subset/woff/Pretendard-Medium.woff")
+      format("woff"),
+    url("./subset/ttf/Pretendard-Medium.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: "Pretendard";
+  font-weight: 400;
+  font-display: swap;
+  src: local("Pretendard Regular"),
+    url("./subset/woff2/Pretendard-Regular.woff2")
+      format("woff2"),
+    url("./subset/woff/Pretendard-Regular.woff")
+      format("woff"),
+    url("./subset/ttf/Pretendard-Regular.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: "Pretendard";
+  font-weight: 300;
+  font-display: swap;
+  src: local("Pretendard Light"),
+    url("./subset/woff2/Pretendard-Light.woff2")
+      format("woff2"),
+    url("./subset/woff/Pretendard-Light.woff")
+      format("woff"),
+    url("./subset/ttf/Pretendard-Light.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: "Pretendard";
+  font-weight: 200;
+  font-display: swap;
+  src: local("Pretendard ExtraLight"),
+    url("./subset/woff2/Pretendard-ExtraLight.woff2")
+      format("woff2"),
+    url("./subset/woff/Pretendard-ExtraLight.woff")
+      format("woff"),
+    url("./subset/ttf/Pretendard-ExtraLight.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: "Pretendard";
+  font-weight: 100;
+  font-display: swap;
+  src: local("Pretendard Thin"),
+    url("./subset/woff2/Pretendard-Thin.woff2")
+      format("woff2"),
+    url("./subset/woff/Pretendard-Thin.woff")
+      format("woff"),
+    url("./subset/ttf/Pretendard-Thin.ttf")
+      format("truetype");
+}

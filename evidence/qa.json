@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "checks": [
+    "7 original banners + footer",
+    "navigation hover",
+    "indicator and keyboard navigation",
+    "search results",
+    "sort low to high",
+    "wishlist persists",
+    "detail quantity and add to cart",
+    "cart refresh, quantity update, deletion",
+    "search no results and injection safety",
+    "direct routes and category filtering",
+    "local assets load",
+    "mobile home and catalog fit viewport",
+    "zero JS runtime errors",
+    "corrupted storage recovers",
+    "skip link moves keyboard focus",
+    "focused carousel pauses autoplay",
+    "no late JS runtime errors"
+  ],
+  "errors": []
+}

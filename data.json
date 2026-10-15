@@ -1,0 +1,3452 @@
+{
+  "banners": [
+    {
+      "title": [
+        "쌤페스타",
+        "한샘 최대 세일 이벤트"
+      ],
+      "subtitle": [
+        "9.28 ~ 10.26",
+        "~85% SALE"
+      ],
+      "image": "assets/banner-1.jpg",
+      "source": "https://static.remodeling.hanssem.com/display/202609/4d9fb436-3cb4-4015-b9c6-e8ffa01151c0.jpg",
+      "href": "https://store.hanssem.com/plan/19811"
+    },
+    {
+      "title": [
+        "쌤페스타 고객님은",
+        "이사 비용 부담제로!"
+      ],
+      "subtitle": [
+        "이사/청소/가전케어",
+        "~20% 할인 바우처"
+      ],
+      "image": "assets/banner-2.jpg",
+      "source": "https://static.remodeling.hanssem.com/display/202609/99a5fcb7-ce1a-4f04-9a27-879cf0586795.jpg",
+      "href": "https://store.hanssem.com/plan/19811?componentId=13352"
+    },
+    {
+      "title": [
+        "인테리어",
+        "최대 1,400만원 상당 혜택"
+      ],
+      "subtitle": [
+        "한샘 매장에서",
+        "최대 혜택을 만나보세요"
+      ],
+      "image": "assets/banner-3.jpg",
+      "source": "https://static.remodeling.hanssem.com/display/202610/62fbff62-8a8c-48a8-9ad0-98ad39f7fc9f.jpg",
+      "href": "https://store.hanssem.com/plan/19865"
+    },
+    {
+      "title": [
+        "쌤페스타",
+        "인테리어 특가"
+      ],
+      "subtitle": [
+        "즉시할인 ~25%",
+        "~40만원 추가 할인+업그레이드 혜택까지"
+      ],
+      "image": "assets/banner-4.jpg",
+      "source": "https://static.remodeling.hanssem.com/display/202606/dbb85858-539e-45bc-ba89-bb0ac70125a0.jpg",
+      "href": "https://store.hanssem.com/plan/19834"
+    },
+    {
+      "title": [
+        "키친은 다 따져봐도",
+        "돌고돌아 한샘"
+      ],
+      "subtitle": [
+        "모듈형 아일랜드와 취향을 담은 도어로",
+        "완성하는 신제품 유로 키친"
+      ],
+      "image": "assets/banner-5.jpg",
+      "source": "https://static.remodeling.hanssem.com/display/202609/116c4477-8b59-4970-a459-efabb9af47fd.jpg",
+      "href": "https://mall.hanssem.com/plan/19523.html"
+    },
+    {
+      "title": [
+        "수납은 다 따져봐도",
+        "돌고돌아 한샘"
+      ],
+      "subtitle": [
+        "시그니처 붙박이장ㅣ드레스룸으로",
+        "방 안 가득 근사하게"
+      ],
+      "image": "assets/banner-6.jpg",
+      "source": "https://static.remodeling.hanssem.com/display/202609/424e4ea1-0f7d-4a3b-b3a8-9b81a80d42f3.jpg",
+      "href": "https://mall.hanssem.com/plan/19521.html"
+    },
+    {
+      "title": [
+        "한샘 침실가구",
+        "이달의 혜택"
+      ],
+      "subtitle": [
+        "주차별 타임특가",
+        "BEST 포토리뷰 사은품 증정"
+      ],
+      "image": "assets/banner-7.jpg",
+      "source": "https://static.remodeling.hanssem.com/display/202607/05993734-1679-4ef1-be9a-e01df1c1d79e.jpg",
+      "href": "https://store.hanssem.com/plan/19317"
+    }
+  ],
+  "menu": {
+    "sectionMenuList": [
+      {
+        "mallType": "MALL",
+        "menuList": [
+          {
+            "menuDataNm": "커튼·블라인드",
+            "sort": "1",
+            "imgUrl": "",
+            "isHighLight": "N",
+            "appLinkInfoDto": {
+              "appLinkTarget": "URL",
+              "appLinkVal": "https://store.hanssem.com/category/20109",
+              "appLinkSubVal": null,
+              "appLinkChannel": "MALL",
+              "appLinkAddQuery": null,
+              "linkUrl": "https://store.hanssem.com/category/20109"
+            },
+            "subMenuDataList": null
+          },
+          {
+            "menuDataNm": "한샘 인기랭킹",
+            "sort": "2",
+            "imgUrl": "",
+            "isHighLight": "Y",
+            "appLinkInfoDto": {
+              "appLinkTarget": "URL",
+              "appLinkVal": "https://store.hanssem.com/furnishing/ranking",
+              "appLinkSubVal": null,
+              "appLinkChannel": "MALL",
+              "appLinkAddQuery": null,
+              "linkUrl": "https://store.hanssem.com/furnishing/ranking"
+            },
+            "subMenuDataList": null
+          },
+          {
+            "menuDataNm": "한샘 특가",
+            "sort": "3",
+            "imgUrl": "",
+            "isHighLight": "Y",
+            "appLinkInfoDto": {
+              "appLinkTarget": "URL",
+              "appLinkVal": "https://store.hanssem.com/plan/19820",
+              "appLinkSubVal": null,
+              "appLinkChannel": "MALL",
+              "appLinkAddQuery": null,
+              "linkUrl": "https://store.hanssem.com/plan/19820"
+            },
+            "subMenuDataList": null
+          },
+          {
+            "menuDataNm": "1분 홈투어",
+            "sort": "4",
+            "imgUrl": "",
+            "isHighLight": "Y",
+            "appLinkInfoDto": {
+              "appLinkTarget": "URL",
+              "appLinkVal": "https://store.hanssem.com/shorts",
+              "appLinkSubVal": null,
+              "appLinkChannel": "MALL",
+              "appLinkAddQuery": null,
+              "linkUrl": "https://store.hanssem.com/shorts"
+            },
+            "subMenuDataList": null
+          },
+          {
+            "menuDataNm": "쌤페스타",
+            "sort": "5",
+            "imgUrl": "",
+            "isHighLight": "Y",
+            "appLinkInfoDto": {
+              "appLinkTarget": "URL",
+              "appLinkVal": "https://store.hanssem.com/plan/19811",
+              "appLinkSubVal": null,
+              "appLinkChannel": "MALL",
+              "appLinkAddQuery": null,
+              "linkUrl": "https://store.hanssem.com/plan/19811"
+            },
+            "subMenuDataList": null
+          }
+        ],
+        "groupCategoryList": [
+          {
+            "categoryName": "침실",
+            "categoryNo": "20070",
+            "sort": "2",
+            "isHighLight": "N",
+            "categoryType": "001",
+            "displayType": "T",
+            "linkUrl": "https://store.hanssem.com/category/20070",
+            "middleCategoryList": [
+              {
+                "categoryName": "침대",
+                "categoryNo": "20078",
+                "sort": "1",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20078",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "슈퍼·싱글침대",
+                    "categoryNo": "20116",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20116"
+                  },
+                  {
+                    "categoryName": "퀸·킹침대",
+                    "categoryNo": "20117",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20117"
+                  },
+                  {
+                    "categoryName": "호텔침대",
+                    "categoryNo": "20118",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20118"
+                  },
+                  {
+                    "categoryName": "수납침대",
+                    "categoryNo": "20119",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20119"
+                  },
+                  {
+                    "categoryName": "저상형·패밀리침대",
+                    "categoryNo": "20120",
+                    "sort": "5",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20120"
+                  }
+                ]
+              },
+              {
+                "categoryName": "매트리스",
+                "categoryNo": "20079",
+                "sort": "2",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20079",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "슈퍼·싱글매트리스",
+                    "categoryNo": "20121",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20121"
+                  },
+                  {
+                    "categoryName": "퀸·킹매트리스",
+                    "categoryNo": "20122",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20122"
+                  },
+                  {
+                    "categoryName": "토퍼·하단매트리스",
+                    "categoryNo": "20123",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20123"
+                  }
+                ]
+              },
+              {
+                "categoryName": "화장대·서랍장",
+                "categoryNo": "20080",
+                "sort": "3",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20080",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "화장대·서랍장",
+                    "categoryNo": "20124",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20124"
+                  },
+                  {
+                    "categoryName": "화장대의자",
+                    "categoryNo": "20125",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20125"
+                  },
+                  {
+                    "categoryName": "협탁·침대패널",
+                    "categoryNo": "20126",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20126"
+                  },
+                  {
+                    "categoryName": "거울",
+                    "categoryNo": "20127",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20127"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "categoryName": "거실",
+            "categoryNo": "20071",
+            "sort": "3",
+            "isHighLight": "N",
+            "categoryType": "001",
+            "displayType": "T",
+            "linkUrl": "https://store.hanssem.com/category/20071",
+            "middleCategoryList": [
+              {
+                "categoryName": "소파",
+                "categoryNo": "20081",
+                "sort": "1",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20081",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "가죽소파",
+                    "categoryNo": "20128",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20128"
+                  },
+                  {
+                    "categoryName": "리클라이너",
+                    "categoryNo": "20129",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20129"
+                  },
+                  {
+                    "categoryName": "패브릭소파",
+                    "categoryNo": "20130",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20130"
+                  },
+                  {
+                    "categoryName": "좌식소파",
+                    "categoryNo": "20131",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20131"
+                  }
+                ]
+              },
+              {
+                "categoryName": "거실장·테이블",
+                "categoryNo": "20082",
+                "sort": "2",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20082",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "거실장",
+                    "categoryNo": "20132",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20132"
+                  },
+                  {
+                    "categoryName": "테이블",
+                    "categoryNo": "20133",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20133"
+                  },
+                  {
+                    "categoryName": "사이드테이블",
+                    "categoryNo": "20134",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20134"
+                  },
+                  {
+                    "categoryName": "수납장",
+                    "categoryNo": "20135",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20135"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "categoryName": "다이닝",
+            "categoryNo": "20072",
+            "sort": "4",
+            "isHighLight": "N",
+            "categoryType": "001",
+            "displayType": "T",
+            "linkUrl": "https://store.hanssem.com/category/20072",
+            "middleCategoryList": [
+              {
+                "categoryName": "식탁",
+                "categoryNo": "20083",
+                "sort": "1",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20083",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "2인용식탁",
+                    "categoryNo": "20136",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20136"
+                  },
+                  {
+                    "categoryName": "4인용식탁",
+                    "categoryNo": "20137",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20137"
+                  },
+                  {
+                    "categoryName": "6인용식탁이상",
+                    "categoryNo": "20138",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20138"
+                  },
+                  {
+                    "categoryName": "세라믹식탁",
+                    "categoryNo": "20139",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20139"
+                  },
+                  {
+                    "categoryName": "리빙다이닝식탁",
+                    "categoryNo": "20140",
+                    "sort": "5",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20140"
+                  }
+                ]
+              },
+              {
+                "categoryName": "식탁의자",
+                "categoryNo": "20084",
+                "sort": "2",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20084",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "식탁의자",
+                    "categoryNo": "20141",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20141"
+                  },
+                  {
+                    "categoryName": "바체어",
+                    "categoryNo": "20142",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20142"
+                  },
+                  {
+                    "categoryName": "벤치·스툴의자",
+                    "categoryNo": "20143",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20143"
+                  }
+                ]
+              },
+              {
+                "categoryName": "주방수납장",
+                "categoryNo": "20085",
+                "sort": "3",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20085",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "주방수납장",
+                    "categoryNo": "20144",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20144"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "categoryName": "옷장·드레스룸",
+            "categoryNo": "20073",
+            "sort": "5",
+            "isHighLight": "N",
+            "categoryType": "001",
+            "displayType": "T",
+            "linkUrl": "https://store.hanssem.com/category/20073",
+            "middleCategoryList": [
+              {
+                "categoryName": "옷장",
+                "categoryNo": "20086",
+                "sort": "1",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20086",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "여닫이옷장",
+                    "categoryNo": "20145",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20145"
+                  },
+                  {
+                    "categoryName": "슬라이딩옷장",
+                    "categoryNo": "20146",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20146"
+                  },
+                  {
+                    "categoryName": "샘베딩 옷장",
+                    "categoryNo": "20147",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20147"
+                  }
+                ]
+              },
+              {
+                "categoryName": "드레스룸",
+                "categoryNo": "20087",
+                "sort": "2",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20087",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "드레스룸",
+                    "categoryNo": "20148",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20148"
+                  }
+                ]
+              },
+              {
+                "categoryName": "붙박이장",
+                "categoryNo": "20088",
+                "sort": "3",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20088",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "여닫이붙박이장",
+                    "categoryNo": "20149",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20149"
+                  },
+                  {
+                    "categoryName": "슬라이딩붙박이장",
+                    "categoryNo": "20150",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20150"
+                  },
+                  {
+                    "categoryName": "시그니처 붙박이장",
+                    "categoryNo": "20152",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20152"
+                  }
+                ]
+              },
+              {
+                "categoryName": "수납·서랍장",
+                "categoryNo": "20490",
+                "sort": "4",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20490",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "서랍장",
+                    "categoryNo": "20491",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20491"
+                  },
+                  {
+                    "categoryName": "수납장",
+                    "categoryNo": "20493",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20493"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "categoryName": "키즈룸",
+            "categoryNo": "20074",
+            "sort": "6",
+            "isHighLight": "N",
+            "categoryType": "001",
+            "displayType": "T",
+            "linkUrl": "https://store.hanssem.com/category/20074",
+            "middleCategoryList": [
+              {
+                "categoryName": "수납장·책장",
+                "categoryNo": "20089",
+                "sort": "1",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20089",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "수납장·교구장",
+                    "categoryNo": "20153",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20153"
+                  },
+                  {
+                    "categoryName": "책장",
+                    "categoryNo": "20154",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20154"
+                  }
+                ]
+              },
+              {
+                "categoryName": "침대·매트리스",
+                "categoryNo": "20090",
+                "sort": "2",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20090",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "데이베드",
+                    "categoryNo": "20155",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20155"
+                  },
+                  {
+                    "categoryName": "벙커침대",
+                    "categoryNo": "20156",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20156"
+                  },
+                  {
+                    "categoryName": "수납침대",
+                    "categoryNo": "20157",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20157"
+                  },
+                  {
+                    "categoryName": "슬라이딩침대",
+                    "categoryNo": "20158",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20158"
+                  },
+                  {
+                    "categoryName": "매트리스",
+                    "categoryNo": "20566",
+                    "sort": "5",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20566"
+                  }
+                ]
+              },
+              {
+                "categoryName": "옷장·서랍장",
+                "categoryNo": "20091",
+                "sort": "3",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20091",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "베이비장",
+                    "categoryNo": "20159",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20159"
+                  },
+                  {
+                    "categoryName": "주니어장",
+                    "categoryNo": "20160",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20160"
+                  }
+                ]
+              },
+              {
+                "categoryName": "책상·의자",
+                "categoryNo": "20092",
+                "sort": "4",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20092",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "키즈테이블",
+                    "categoryNo": "20161",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20161"
+                  },
+                  {
+                    "categoryName": "일반책상",
+                    "categoryNo": "20162",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20162"
+                  },
+                  {
+                    "categoryName": "의자",
+                    "categoryNo": "20163",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20163"
+                  }
+                ]
+              },
+              {
+                "categoryName": "샘키즈",
+                "categoryNo": "20546",
+                "sort": "6",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20546",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "수납장·교구장",
+                    "categoryNo": "20547",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20547"
+                  },
+                  {
+                    "categoryName": "책장",
+                    "categoryNo": "20548",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20548"
+                  },
+                  {
+                    "categoryName": "책상·의자",
+                    "categoryNo": "20549",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20549"
+                  },
+                  {
+                    "categoryName": "옷장·서랍장",
+                    "categoryNo": "20550",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20550"
+                  },
+                  {
+                    "categoryName": "침대",
+                    "categoryNo": "20551",
+                    "sort": "5",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20551"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "categoryName": "학생방",
+            "categoryNo": "20075",
+            "sort": "7",
+            "isHighLight": "N",
+            "categoryType": "001",
+            "displayType": "T",
+            "linkUrl": "https://store.hanssem.com/category/20075",
+            "middleCategoryList": [
+              {
+                "categoryName": "책상",
+                "categoryNo": "20094",
+                "sort": "1",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20094",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "책상세트",
+                    "categoryNo": "20165",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20165"
+                  },
+                  {
+                    "categoryName": "일반책상",
+                    "categoryNo": "20166",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20166"
+                  },
+                  {
+                    "categoryName": "기능성책상",
+                    "categoryNo": "20167",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20167"
+                  }
+                ]
+              },
+              {
+                "categoryName": "책장·수납장",
+                "categoryNo": "20095",
+                "sort": "2",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20095",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "책장",
+                    "categoryNo": "20168",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20168"
+                  },
+                  {
+                    "categoryName": "선반",
+                    "categoryNo": "20169",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20169"
+                  },
+                  {
+                    "categoryName": "수납장",
+                    "categoryNo": "20170",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20170"
+                  }
+                ]
+              },
+              {
+                "categoryName": "침대",
+                "categoryNo": "20096",
+                "sort": "3",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20096",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "일반침대",
+                    "categoryNo": "20171",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20171"
+                  },
+                  {
+                    "categoryName": "이층침대",
+                    "categoryNo": "20172",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20172"
+                  }
+                ]
+              },
+              {
+                "categoryName": "옷장·서랍장",
+                "categoryNo": "20097",
+                "sort": "4",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20097",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "옷장",
+                    "categoryNo": "20173",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20173"
+                  },
+                  {
+                    "categoryName": "서랍장",
+                    "categoryNo": "20174",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20174"
+                  }
+                ]
+              },
+              {
+                "categoryName": "의자",
+                "categoryNo": "20098",
+                "sort": "5",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20098",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "책상의자",
+                    "categoryNo": "20175",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20175"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "categoryName": "홈오피스",
+            "categoryNo": "20076",
+            "sort": "8",
+            "isHighLight": "N",
+            "categoryType": "001",
+            "displayType": "T",
+            "linkUrl": "https://store.hanssem.com/category/20076",
+            "middleCategoryList": [
+              {
+                "categoryName": "책상",
+                "categoryNo": "20099",
+                "sort": "1",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20099",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "책상",
+                    "categoryNo": "20176",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20176"
+                  }
+                ]
+              },
+              {
+                "categoryName": "책장·수납장",
+                "categoryNo": "20100",
+                "sort": "2",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20100",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "낮은책장(3단이하)",
+                    "categoryNo": "20177",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20177"
+                  },
+                  {
+                    "categoryName": "높은책장(4단이상)",
+                    "categoryNo": "20178",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20178"
+                  },
+                  {
+                    "categoryName": "수납장",
+                    "categoryNo": "20179",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20179"
+                  },
+                  {
+                    "categoryName": "선반",
+                    "categoryNo": "20495",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20495"
+                  }
+                ]
+              },
+              {
+                "categoryName": "의자",
+                "categoryNo": "20101",
+                "sort": "3",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20101",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "홈오피스체어",
+                    "categoryNo": "20180",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20180"
+                  },
+                  {
+                    "categoryName": "안락·흔들의자",
+                    "categoryNo": "20181",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20181"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "categoryName": "홈&데코",
+            "categoryNo": "20077",
+            "sort": "9",
+            "isHighLight": "N",
+            "categoryType": "001",
+            "displayType": "T",
+            "linkUrl": "https://store.hanssem.com/category/20077",
+            "middleCategoryList": [
+              {
+                "categoryName": "생활용품",
+                "categoryNo": "20102",
+                "sort": "1",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20102",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "휴지통",
+                    "categoryNo": "20182",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20182"
+                  },
+                  {
+                    "categoryName": "분리수거함",
+                    "categoryNo": "20183",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20183"
+                  },
+                  {
+                    "categoryName": "청소용품",
+                    "categoryNo": "20184",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20184"
+                  },
+                  {
+                    "categoryName": "빨래건조대",
+                    "categoryNo": "20185",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20185"
+                  },
+                  {
+                    "categoryName": "빨래바구니·햄퍼",
+                    "categoryNo": "20186",
+                    "sort": "5",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20186"
+                  },
+                  {
+                    "categoryName": "기타빨래용품",
+                    "categoryNo": "20187",
+                    "sort": "6",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20187"
+                  },
+                  {
+                    "categoryName": "욕실선반·걸이",
+                    "categoryNo": "20188",
+                    "sort": "7",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20188"
+                  },
+                  {
+                    "categoryName": "목욕·샤워용품",
+                    "categoryNo": "20189",
+                    "sort": "8",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20189"
+                  },
+                  {
+                    "categoryName": "욕실화·발매트",
+                    "categoryNo": "20190",
+                    "sort": "9",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20190"
+                  },
+                  {
+                    "categoryName": "기타욕실용품",
+                    "categoryNo": "20191",
+                    "sort": "10",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20191"
+                  },
+                  {
+                    "categoryName": "화장지·세제·위생용품",
+                    "categoryNo": "20192",
+                    "sort": "11",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20192"
+                  },
+                  {
+                    "categoryName": "기타생활잡화",
+                    "categoryNo": "20193",
+                    "sort": "12",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20193"
+                  }
+                ]
+              },
+              {
+                "categoryName": "수납·정리",
+                "categoryNo": "20103",
+                "sort": "2",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20103",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "리빙박스",
+                    "categoryNo": "20194",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20194"
+                  },
+                  {
+                    "categoryName": "바스켓",
+                    "categoryNo": "20195",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20195"
+                  },
+                  {
+                    "categoryName": "기타정리함",
+                    "categoryNo": "20196",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20196"
+                  },
+                  {
+                    "categoryName": "서랍장·선반",
+                    "categoryNo": "20197",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20197"
+                  },
+                  {
+                    "categoryName": "틈새수납·트롤리",
+                    "categoryNo": "20198",
+                    "sort": "5",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20198"
+                  },
+                  {
+                    "categoryName": "행거",
+                    "categoryNo": "20199",
+                    "sort": "6",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20199"
+                  },
+                  {
+                    "categoryName": "옷걸이",
+                    "categoryNo": "20200",
+                    "sort": "7",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20200"
+                  },
+                  {
+                    "categoryName": "옷·이불수납",
+                    "categoryNo": "20201",
+                    "sort": "8",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20201"
+                  },
+                  {
+                    "categoryName": "현관·신발정리",
+                    "categoryNo": "20202",
+                    "sort": "9",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20202"
+                  },
+                  {
+                    "categoryName": "정리보관·트레이",
+                    "categoryNo": "20203",
+                    "sort": "10",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20203"
+                  },
+                  {
+                    "categoryName": "화장대·테이블정리",
+                    "categoryNo": "20204",
+                    "sort": "11",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20204"
+                  },
+                  {
+                    "categoryName": "가벽·파티션",
+                    "categoryNo": "20205",
+                    "sort": "12",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20205"
+                  }
+                ]
+              },
+              {
+                "categoryName": "주방수납",
+                "categoryNo": "20104",
+                "sort": "3",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20104",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "주방선반·정리대",
+                    "categoryNo": "20206",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20206"
+                  },
+                  {
+                    "categoryName": "식기건조대",
+                    "categoryNo": "20207",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20207"
+                  },
+                  {
+                    "categoryName": "보관·밀폐용기",
+                    "categoryNo": "20208",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20208"
+                  },
+                  {
+                    "categoryName": "양념통·오일병",
+                    "categoryNo": "20209",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20209"
+                  },
+                  {
+                    "categoryName": "냉장고정리·소분용기",
+                    "categoryNo": "20210",
+                    "sort": "5",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20210"
+                  },
+                  {
+                    "categoryName": "수저통·컵걸이",
+                    "categoryNo": "20211",
+                    "sort": "6",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20211"
+                  },
+                  {
+                    "categoryName": "수세미걸이·세제통",
+                    "categoryNo": "20212",
+                    "sort": "7",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20212"
+                  },
+                  {
+                    "categoryName": "음식물쓰레기통",
+                    "categoryNo": "20213",
+                    "sort": "8",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20213"
+                  },
+                  {
+                    "categoryName": "기타주방수납",
+                    "categoryNo": "20214",
+                    "sort": "9",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20214"
+                  }
+                ]
+              },
+              {
+                "categoryName": "테이블웨어",
+                "categoryNo": "20105",
+                "sort": "4",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20105",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "그릇세트",
+                    "categoryNo": "20215",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20215"
+                  },
+                  {
+                    "categoryName": "접시·찬기",
+                    "categoryNo": "20216",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20216"
+                  },
+                  {
+                    "categoryName": "공기·대접",
+                    "categoryNo": "20217",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20217"
+                  },
+                  {
+                    "categoryName": "면기·볼",
+                    "categoryNo": "20218",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20218"
+                  },
+                  {
+                    "categoryName": "수저·커트러리·받침",
+                    "categoryNo": "20219",
+                    "sort": "5",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20219"
+                  },
+                  {
+                    "categoryName": "머그컵",
+                    "categoryNo": "20220",
+                    "sort": "6",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20220"
+                  },
+                  {
+                    "categoryName": "유리컵·잔",
+                    "categoryNo": "20221",
+                    "sort": "7",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20221"
+                  },
+                  {
+                    "categoryName": "텀블러·빨대·컵소품",
+                    "categoryNo": "20222",
+                    "sort": "8",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20222"
+                  },
+                  {
+                    "categoryName": "주전자·티포트",
+                    "categoryNo": "20223",
+                    "sort": "9",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20223"
+                  },
+                  {
+                    "categoryName": "물병·저그",
+                    "categoryNo": "20224",
+                    "sort": "10",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20224"
+                  },
+                  {
+                    "categoryName": "테이블매트·식탁보",
+                    "categoryNo": "20225",
+                    "sort": "11",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20225"
+                  }
+                ]
+              },
+              {
+                "categoryName": "쿡웨어·조리도구",
+                "categoryNo": "20106",
+                "sort": "5",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20106",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "도마",
+                    "categoryNo": "20226",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20226"
+                  },
+                  {
+                    "categoryName": "칼·칼꽂이·가위",
+                    "categoryNo": "20227",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20227"
+                  },
+                  {
+                    "categoryName": "채칼·다지기·강판",
+                    "categoryNo": "20228",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20228"
+                  },
+                  {
+                    "categoryName": "조리도구세트",
+                    "categoryNo": "20229",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20229"
+                  },
+                  {
+                    "categoryName": "뒤집개·주걱·국자",
+                    "categoryNo": "20230",
+                    "sort": "5",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20230"
+                  },
+                  {
+                    "categoryName": "믹싱볼·채반·계량도구",
+                    "categoryNo": "20231",
+                    "sort": "6",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20231"
+                  },
+                  {
+                    "categoryName": "기타조리도구",
+                    "categoryNo": "20232",
+                    "sort": "7",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20232"
+                  },
+                  {
+                    "categoryName": "냄비·프라이팬세트",
+                    "categoryNo": "20233",
+                    "sort": "8",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20233"
+                  },
+                  {
+                    "categoryName": "프라이팬·그릴",
+                    "categoryNo": "20234",
+                    "sort": "9",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20234"
+                  },
+                  {
+                    "categoryName": "냄비·뚝배기",
+                    "categoryNo": "20235",
+                    "sort": "10",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20235"
+                  },
+                  {
+                    "categoryName": "압력솥·찜기",
+                    "categoryNo": "20236",
+                    "sort": "11",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20236"
+                  }
+                ]
+              },
+              {
+                "categoryName": "기타주방용품",
+                "categoryNo": "20107",
+                "sort": "6",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20107",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "주방발매트",
+                    "categoryNo": "20237",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20237"
+                  },
+                  {
+                    "categoryName": "앞치마·주방장갑",
+                    "categoryNo": "20238",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20238"
+                  },
+                  {
+                    "categoryName": "행주·수세미·솔",
+                    "categoryNo": "20239",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20239"
+                  },
+                  {
+                    "categoryName": "쟁반·트레이",
+                    "categoryNo": "20240",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20240"
+                  },
+                  {
+                    "categoryName": "물막이·거름망·배수용품",
+                    "categoryNo": "20241",
+                    "sort": "5",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20241"
+                  },
+                  {
+                    "categoryName": "덮개·냄비·컵받침",
+                    "categoryNo": "20242",
+                    "sort": "6",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20242"
+                  },
+                  {
+                    "categoryName": "주방소품·잡화",
+                    "categoryNo": "20243",
+                    "sort": "7",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20243"
+                  }
+                ]
+              },
+              {
+                "categoryName": "침구",
+                "categoryNo": "20108",
+                "sort": "7",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20108",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "침구세트",
+                    "categoryNo": "20244",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20244"
+                  },
+                  {
+                    "categoryName": "이불솜·커버",
+                    "categoryNo": "20245",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20245"
+                  },
+                  {
+                    "categoryName": "베개솜·커버",
+                    "categoryNo": "20246",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20246"
+                  },
+                  {
+                    "categoryName": "매트리스커버",
+                    "categoryNo": "20247",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20247"
+                  },
+                  {
+                    "categoryName": "요·토퍼·패드",
+                    "categoryNo": "20248",
+                    "sort": "5",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20248"
+                  }
+                ]
+              },
+              {
+                "categoryName": "커튼·블라인드",
+                "categoryNo": "20109",
+                "sort": "8",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20109",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "암막커튼",
+                    "categoryNo": "20249",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20249"
+                  },
+                  {
+                    "categoryName": "일반커튼",
+                    "categoryNo": "20250",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20250"
+                  },
+                  {
+                    "categoryName": "레이스·속커튼",
+                    "categoryNo": "20251",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20251"
+                  },
+                  {
+                    "categoryName": "블라인드·롤스크린",
+                    "categoryNo": "20252",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20252"
+                  },
+                  {
+                    "categoryName": "부자재",
+                    "categoryNo": "20253",
+                    "sort": "5",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20253"
+                  }
+                ]
+              },
+              {
+                "categoryName": "홈패브릭",
+                "categoryNo": "20110",
+                "sort": "9",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20110",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "러그·카페트",
+                    "categoryNo": "20254",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20254"
+                  },
+                  {
+                    "categoryName": "발매트·안전매트",
+                    "categoryNo": "20255",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20255"
+                  },
+                  {
+                    "categoryName": "쿠션·쿠션솜",
+                    "categoryNo": "20256",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20256"
+                  },
+                  {
+                    "categoryName": "방석·방석솜",
+                    "categoryNo": "20257",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20257"
+                  },
+                  {
+                    "categoryName": "소파커버·패드",
+                    "categoryNo": "20258",
+                    "sort": "5",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20258"
+                  },
+                  {
+                    "categoryName": "티슈·생활커버",
+                    "categoryNo": "20259",
+                    "sort": "6",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20259"
+                  },
+                  {
+                    "categoryName": "수건·타올·가운",
+                    "categoryNo": "20260",
+                    "sort": "7",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20260"
+                  },
+                  {
+                    "categoryName": "담요·블랭킷",
+                    "categoryNo": "20261",
+                    "sort": "8",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20261"
+                  },
+                  {
+                    "categoryName": "홈웨어·실내화",
+                    "categoryNo": "20262",
+                    "sort": "9",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20262"
+                  },
+                  {
+                    "categoryName": "패브릭잡화",
+                    "categoryNo": "20263",
+                    "sort": "10",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20263"
+                  }
+                ]
+              },
+              {
+                "categoryName": "조명",
+                "categoryNo": "20111",
+                "sort": "10",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20111",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "장스탠드",
+                    "categoryNo": "20264",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20264"
+                  },
+                  {
+                    "categoryName": "단스탠드",
+                    "categoryNo": "20265",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20265"
+                  },
+                  {
+                    "categoryName": "데스크스탠드",
+                    "categoryNo": "20266",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20266"
+                  },
+                  {
+                    "categoryName": "무드등·장식조명",
+                    "categoryNo": "20267",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20267"
+                  },
+                  {
+                    "categoryName": "센서등",
+                    "categoryNo": "20268",
+                    "sort": "5",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20268"
+                  },
+                  {
+                    "categoryName": "직부등·매입등",
+                    "categoryNo": "20269",
+                    "sort": "6",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20269"
+                  },
+                  {
+                    "categoryName": "팬던트·레일·샹들리에",
+                    "categoryNo": "20270",
+                    "sort": "7",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20270"
+                  },
+                  {
+                    "categoryName": "벽조명",
+                    "categoryNo": "20271",
+                    "sort": "8",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20271"
+                  },
+                  {
+                    "categoryName": "조명부속품",
+                    "categoryNo": "20272",
+                    "sort": "9",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20272"
+                  }
+                ]
+              },
+              {
+                "categoryName": "가전",
+                "categoryNo": "20112",
+                "sort": "11",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20112",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "디지털가전",
+                    "categoryNo": "20273",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20273"
+                  },
+                  {
+                    "categoryName": "주방가전",
+                    "categoryNo": "20274",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20274"
+                  },
+                  {
+                    "categoryName": "계절가전",
+                    "categoryNo": "20275",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20275"
+                  },
+                  {
+                    "categoryName": "청소기",
+                    "categoryNo": "20276",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20276"
+                  },
+                  {
+                    "categoryName": "생활·이미용가전",
+                    "categoryNo": "20277",
+                    "sort": "5",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20277"
+                  }
+                ]
+              },
+              {
+                "categoryName": "인테리어소품·DIY",
+                "categoryNo": "20113",
+                "sort": "12",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20113",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "벽시계",
+                    "categoryNo": "20278",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20278"
+                  },
+                  {
+                    "categoryName": "알람·탁상시계·타이머",
+                    "categoryNo": "20279",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20279"
+                  },
+                  {
+                    "categoryName": "거울",
+                    "categoryNo": "20280",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20280"
+                  },
+                  {
+                    "categoryName": "그림·액자·포스터",
+                    "categoryNo": "20281",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20281"
+                  },
+                  {
+                    "categoryName": "월데코·스티커",
+                    "categoryNo": "20282",
+                    "sort": "5",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20282"
+                  },
+                  {
+                    "categoryName": "캔들·디퓨저",
+                    "categoryNo": "20283",
+                    "sort": "6",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20283"
+                  },
+                  {
+                    "categoryName": "토이·피규어·미니어쳐",
+                    "categoryNo": "20284",
+                    "sort": "7",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20284"
+                  },
+                  {
+                    "categoryName": "기타인테리어소품",
+                    "categoryNo": "20285",
+                    "sort": "8",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20285"
+                  },
+                  {
+                    "categoryName": "데스크소품",
+                    "categoryNo": "20286",
+                    "sort": "9",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20286"
+                  },
+                  {
+                    "categoryName": "디자인문구",
+                    "categoryNo": "20287",
+                    "sort": "10",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20287"
+                  },
+                  {
+                    "categoryName": "공구·손잡이·도어",
+                    "categoryNo": "20288",
+                    "sort": "11",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20288"
+                  },
+                  {
+                    "categoryName": "페인트·시트지·벽지",
+                    "categoryNo": "20289",
+                    "sort": "12",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20289"
+                  },
+                  {
+                    "categoryName": "기타DIY용품",
+                    "categoryNo": "20290",
+                    "sort": "13",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20290"
+                  }
+                ]
+              },
+              {
+                "categoryName": "한샘AS부품",
+                "categoryNo": "20114",
+                "sort": "13",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20114",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "손잡이",
+                    "categoryNo": "20291",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20291"
+                  },
+                  {
+                    "categoryName": "경첩·쇼바·철물류",
+                    "categoryNo": "20292",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20292"
+                  },
+                  {
+                    "categoryName": "기타AS부품",
+                    "categoryNo": "20293",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20293"
+                  },
+                  {
+                    "categoryName": "주방부품",
+                    "categoryNo": "20294",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20294"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "mallType": "REMODELING",
+        "menuList": [
+          {
+            "menuDataNm": "시공사례",
+            "sort": "1",
+            "imgUrl": "",
+            "isHighLight": "N",
+            "appLinkInfoDto": {
+              "appLinkTarget": "URL",
+              "appLinkVal": "https://store.hanssem.com/interior/constcase",
+              "appLinkSubVal": null,
+              "appLinkChannel": "MALL",
+              "appLinkAddQuery": null,
+              "linkUrl": "https://store.hanssem.com/interior/constcase"
+            },
+            "subMenuDataList": null
+          },
+          {
+            "menuDataNm": "전체 인테리어",
+            "sort": "2",
+            "imgUrl": "",
+            "isHighLight": "N",
+            "appLinkInfoDto": {
+              "appLinkTarget": "URL",
+              "appLinkVal": "https://store.hanssem.com/interior/all",
+              "appLinkSubVal": null,
+              "appLinkChannel": "MALL",
+              "appLinkAddQuery": null,
+              "linkUrl": "https://store.hanssem.com/interior/all"
+            },
+            "subMenuDataList": null
+          },
+          {
+            "menuDataNm": "무료 견적상담",
+            "sort": "3",
+            "imgUrl": "",
+            "isHighLight": "Y",
+            "appLinkInfoDto": {
+              "appLinkTarget": "URL",
+              "appLinkVal": "https://remodeling.hanssem.com/seq-consult?consultType=MATCH&channelType=OPKG_02",
+              "appLinkSubVal": null,
+              "appLinkChannel": "REMODELING",
+              "appLinkAddQuery": null,
+              "linkUrl": "https://remodeling.hanssem.com/seq-consult?consultType=MATCH&channelType=OPKG_02"
+            },
+            "subMenuDataList": null
+          },
+          {
+            "menuDataNm": "추천디자이너",
+            "sort": "4",
+            "imgUrl": "",
+            "isHighLight": "N",
+            "appLinkInfoDto": {
+              "appLinkTarget": "URL",
+              "appLinkVal": "https://remodeling.hanssem.com/expert/search",
+              "appLinkSubVal": null,
+              "appLinkChannel": "REMODELING",
+              "appLinkAddQuery": null,
+              "linkUrl": "https://remodeling.hanssem.com/expert/search"
+            },
+            "subMenuDataList": null
+          },
+          {
+            "menuDataNm": "인테리어 특가",
+            "sort": "5",
+            "imgUrl": "",
+            "isHighLight": "N",
+            "appLinkInfoDto": {
+              "appLinkTarget": "URL",
+              "appLinkVal": "https://store.hanssem.com/plan/19834",
+              "appLinkSubVal": null,
+              "appLinkChannel": "MALL",
+              "appLinkAddQuery": null,
+              "linkUrl": "https://store.hanssem.com/plan/19834"
+            },
+            "subMenuDataList": null
+          },
+          {
+            "menuDataNm": "고객후기",
+            "sort": "6",
+            "imgUrl": "",
+            "isHighLight": "N",
+            "appLinkInfoDto": {
+              "appLinkTarget": "URL",
+              "appLinkVal": "https://remodeling.hanssem.com/interior-review",
+              "appLinkSubVal": null,
+              "appLinkChannel": "REMODELING",
+              "appLinkAddQuery": null,
+              "linkUrl": "https://remodeling.hanssem.com/interior-review"
+            },
+            "subMenuDataList": null
+          },
+          {
+            "menuDataNm": "카탈로그",
+            "sort": "7",
+            "imgUrl": "",
+            "isHighLight": "N",
+            "appLinkInfoDto": {
+              "appLinkTarget": "URL",
+              "appLinkVal": " https://mall.hanssem.com/plan/18881.html?shpNo=18881&planType=04",
+              "appLinkSubVal": null,
+              "appLinkChannel": "MALL",
+              "appLinkAddQuery": null,
+              "linkUrl": " https://mall.hanssem.com/plan/18881.html?shpNo=18881&planType=04"
+            },
+            "subMenuDataList": null
+          },
+          {
+            "menuDataNm": "매거진",
+            "sort": "8",
+            "imgUrl": "",
+            "isHighLight": "N",
+            "appLinkInfoDto": {
+              "appLinkTarget": "URL",
+              "appLinkVal": "https://store.hanssem.com/interior/magazine",
+              "appLinkSubVal": null,
+              "appLinkChannel": "MALL",
+              "appLinkAddQuery": null,
+              "linkUrl": "https://store.hanssem.com/interior/magazine"
+            },
+            "subMenuDataList": null
+          },
+          {
+            "menuDataNm": "쌤페스타",
+            "sort": "9",
+            "imgUrl": "",
+            "isHighLight": "Y",
+            "appLinkInfoDto": {
+              "appLinkTarget": "URL",
+              "appLinkVal": "https://store.hanssem.com/plan/19811",
+              "appLinkSubVal": null,
+              "appLinkChannel": "MALL",
+              "appLinkAddQuery": null,
+              "linkUrl": "https://store.hanssem.com/plan/19811"
+            },
+            "subMenuDataList": null
+          }
+        ],
+        "groupCategoryList": [
+          {
+            "categoryName": "키친",
+            "categoryNo": "20002",
+            "sort": "2",
+            "isHighLight": "N",
+            "categoryType": "001",
+            "displayType": "T",
+            "linkUrl": "https://store.hanssem.com/category/20002",
+            "middleCategoryList": [
+              {
+                "categoryName": "키친바흐",
+                "categoryNo": "20009",
+                "sort": "1",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20009",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "키친바흐",
+                    "categoryNo": "20024",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20024"
+                  }
+                ]
+              },
+              {
+                "categoryName": "유로",
+                "categoryNo": "20010",
+                "sort": "2",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20010",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "유로",
+                    "categoryNo": "20025",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20025"
+                  }
+                ]
+              },
+              {
+                "categoryName": "밀란",
+                "categoryNo": "20011",
+                "sort": "3",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20011",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "밀란",
+                    "categoryNo": "20026",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20026"
+                  }
+                ]
+              },
+              {
+                "categoryName": "상판",
+                "categoryNo": "20484",
+                "sort": "4",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20484",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "세라믹/스텐",
+                    "categoryNo": "20497",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20497"
+                  },
+                  {
+                    "categoryName": "E-STONE",
+                    "categoryNo": "20498",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20498"
+                  },
+                  {
+                    "categoryName": "MMA",
+                    "categoryNo": "20499",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20499"
+                  }
+                ]
+              },
+              {
+                "categoryName": "상품기기",
+                "categoryNo": "20487",
+                "sort": "5",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20487",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "후드",
+                    "categoryNo": "20503",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20503"
+                  },
+                  {
+                    "categoryName": "쿡탑",
+                    "categoryNo": "20506",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20506"
+                  },
+                  {
+                    "categoryName": "싱크",
+                    "categoryNo": "20505",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20505"
+                  },
+                  {
+                    "categoryName": "수전",
+                    "categoryNo": "20504",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20504"
+                  },
+                  {
+                    "categoryName": "주방가전",
+                    "categoryNo": "20488",
+                    "sort": "5",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20488"
+                  }
+                ]
+              },
+              {
+                "categoryName": "바로결제 키친",
+                "categoryNo": "20572",
+                "sort": "6",
+                "isHighLight": "Y",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20572",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "바로결제 키친",
+                    "categoryNo": "20573",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20573"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "categoryName": "바스",
+            "categoryNo": "20003",
+            "sort": "3",
+            "isHighLight": "N",
+            "categoryType": "001",
+            "displayType": "T",
+            "linkUrl": "https://store.hanssem.com/category/20003",
+            "middleCategoryList": [
+              {
+                "categoryName": "이지바스",
+                "categoryNo": "20557",
+                "sort": "3",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20557",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "이지바스",
+                    "categoryNo": "20559",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20559"
+                  }
+                ]
+              },
+              {
+                "categoryName": "호텔바스",
+                "categoryNo": "20558",
+                "sort": "4",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20558",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "호텔바스",
+                    "categoryNo": "20561",
+                    "sort": "99",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20561"
+                  }
+                ]
+              },
+              {
+                "categoryName": "바로결제 바스",
+                "categoryNo": "20575",
+                "sort": "5",
+                "isHighLight": "Y",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20575",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "바로결제 바스",
+                    "categoryNo": "20576",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20576"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "categoryName": "수납",
+            "categoryNo": "20004",
+            "sort": "4",
+            "isHighLight": "N",
+            "categoryType": "001",
+            "displayType": "T",
+            "linkUrl": "https://store.hanssem.com/category/20004",
+            "middleCategoryList": [
+              {
+                "categoryName": "붙박이장",
+                "categoryNo": "20014",
+                "sort": "1",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20014",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "시그니처 붙박이장",
+                    "categoryNo": "20032",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20032"
+                  },
+                  {
+                    "categoryName": "베이직  붙박이장",
+                    "categoryNo": "20033",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20033"
+                  }
+                ]
+              },
+              {
+                "categoryName": "드레스룸",
+                "categoryNo": "20563",
+                "sort": "2",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20563",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "드레스룸",
+                    "categoryNo": "20564",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20564"
+                  }
+                ]
+              },
+              {
+                "categoryName": "공간수납",
+                "categoryNo": "20016",
+                "sort": "3",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20016",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "빌트인수납",
+                    "categoryNo": "20035",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20035"
+                  },
+                  {
+                    "categoryName": "팬트리수납",
+                    "categoryNo": "20036",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20036"
+                  }
+                ]
+              },
+              {
+                "categoryName": "현관수납",
+                "categoryNo": "20015",
+                "sort": "4",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20015",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "시그니처 현관장",
+                    "categoryNo": "20568",
+                    "sort": "99",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20568"
+                  },
+                  {
+                    "categoryName": "베이직 현관장",
+                    "categoryNo": "20570",
+                    "sort": "99",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20570"
+                  }
+                ]
+              },
+              {
+                "categoryName": "바로결제 수납",
+                "categoryNo": "20578",
+                "sort": "5",
+                "isHighLight": "Y",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20578",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "바로결제 수납",
+                    "categoryNo": "20579",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20579"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "categoryName": "중문·도어",
+            "categoryNo": "20005",
+            "sort": "5",
+            "isHighLight": "N",
+            "categoryType": "001",
+            "displayType": "T",
+            "linkUrl": "https://store.hanssem.com/category/20005",
+            "middleCategoryList": [
+              {
+                "categoryName": "중문",
+                "categoryNo": "20017",
+                "sort": "1",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20017",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "3연동",
+                    "categoryNo": "20037",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20037"
+                  },
+                  {
+                    "categoryName": "여닫이·스윙",
+                    "categoryNo": "20038",
+                    "sort": "2",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20038"
+                  },
+                  {
+                    "categoryName": "슬라이딩",
+                    "categoryNo": "20039",
+                    "sort": "3",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20039"
+                  },
+                  {
+                    "categoryName": "자동중문",
+                    "categoryNo": "20040",
+                    "sort": "4",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20040"
+                  }
+                ]
+              },
+              {
+                "categoryName": "도어",
+                "categoryNo": "20018",
+                "sort": "2",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20018",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "도어",
+                    "categoryNo": "20042",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20042"
+                  }
+                ]
+              },
+              {
+                "categoryName": "바로결제 중문",
+                "categoryNo": "20581",
+                "sort": "3",
+                "isHighLight": "Y",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20581",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "바로결제 중문",
+                    "categoryNo": "20582",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20582"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "categoryName": "창호",
+            "categoryNo": "20006",
+            "sort": "6",
+            "isHighLight": "N",
+            "categoryType": "001",
+            "displayType": "T",
+            "linkUrl": "https://store.hanssem.com/category/20006",
+            "middleCategoryList": [
+              {
+                "categoryName": "발코니창",
+                "categoryNo": "20019",
+                "sort": "1",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20019",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "발코니창",
+                    "categoryNo": "20043",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20043"
+                  }
+                ]
+              },
+              {
+                "categoryName": "기능창",
+                "categoryNo": "20020",
+                "sort": "2",
+                "isHighLight": "N",
+                "categoryType": "001",
+                "linkUrl": "https://store.hanssem.com/category/20020",
+                "smallCategoryList": [
+                  {
+                    "categoryName": "기능창",
+                    "categoryNo": "20044",
+                    "sort": "1",
+                    "isHighLight": "N",
+                    "categoryType": "001",
+                    "linkUrl": "https://store.hanssem.com/category/20044"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "products": [
+    {
+      "id": 644540,
+      "name": "아임빅 수납침대 SS 일반헤드형+노뜨 매트리스",
+      "price": 565500,
+      "normalPrice": 725000,
+      "discount": 22,
+      "image": "assets/product-644540.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/644/644540_A1.jpg?v=20251016164301",
+      "category": "침대",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.8,
+      "reviews": 2966
+    },
+    {
+      "id": 333145,
+      "name": "[특가~10/19am10] 아임빅 수납침대 SS 일반헤드형 (매트별도)",
+      "price": 369000,
+      "normalPrice": 499000,
+      "discount": 26,
+      "image": "assets/product-333145.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/333/333145_A1.jpg?v=20250623100241",
+      "category": "침대",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.9,
+      "reviews": 1682
+    },
+    {
+      "id": 644541,
+      "name": "아임빅 수납침대 SS 슬림수납헤드형 + 노뜨 매트리스",
+      "price": 616000,
+      "normalPrice": 800000,
+      "discount": 23,
+      "image": "assets/product-644541.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/644/644541_A1.jpg?v=20251106143448",
+      "category": "침대",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.8,
+      "reviews": 1468
+    },
+    {
+      "id": 1064630,
+      "name": "[특가~10/19am10] 호텔침대 포에트 침대 Q/K (헤드2종,하부서랍 선택) + 밸런스 매트리스(2종)",
+      "price": 967920,
+      "normalPrice": 1308000,
+      "discount": 26,
+      "image": "assets/product-1064630.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/1064/1064630_A1.jpg?v=20251119162756",
+      "category": "침대",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.9,
+      "reviews": 74
+    },
+    {
+      "id": 993034,
+      "name": "호텔침대 뉴트럴화이트 화장대 수납형",
+      "price": 538000,
+      "normalPrice": 538000,
+      "discount": 0,
+      "image": "assets/product-993034.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/993/993034_A1.jpg?v=20240725152328",
+      "category": "화장대",
+      "brand": "한샘",
+      "tags": [
+        "무료배송"
+      ],
+      "rating": 4.8,
+      "reviews": 276
+    },
+    {
+      "id": 724137,
+      "name": "호텔침대 포엠 화장대 슬라이딩형",
+      "price": 329000,
+      "normalPrice": 423000,
+      "discount": 22,
+      "image": "assets/product-724137.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/724/724137_A1.jpg?v=20251125091725",
+      "category": "화장대",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.7,
+      "reviews": 243
+    },
+    {
+      "id": 487360,
+      "name": "리즈 수납형 화장대",
+      "price": 269900,
+      "normalPrice": 365000,
+      "discount": 26,
+      "image": "assets/product-487360.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/487/487360_A1.jpg?v=20241002162012",
+      "category": "화장대",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.7,
+      "reviews": 271
+    },
+    {
+      "id": 724136,
+      "name": "호텔침대 포엠 거울 화장대",
+      "price": 229000,
+      "normalPrice": 299000,
+      "discount": 23,
+      "image": "assets/product-724136.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/724/724136_A1.jpg?v=20251125091329",
+      "category": "화장대",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.8,
+      "reviews": 297
+    },
+    {
+      "id": 799220,
+      "name": "엠마 컴포트 천연가죽 소파 4인(3종/택1)",
+      "price": 1059000,
+      "normalPrice": 1378000,
+      "discount": 23,
+      "image": "assets/product-799220.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/799/799220_A1.jpg?v=20250829154456",
+      "category": "소파",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.8,
+      "reviews": 1299
+    },
+    {
+      "id": 786625,
+      "name": "MVME 프라임 노블 홈바형 천연가죽 리클라이너 소파 4인",
+      "price": 1559000,
+      "normalPrice": 2035000,
+      "discount": 23,
+      "image": "assets/product-786625.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/2100/786/786625_A1.jpg?v=20260608171118",
+      "category": "소파",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.8,
+      "reviews": 536
+    },
+    {
+      "id": 1138381,
+      "name": "엠마 컴포트 스윙 천연가죽 소파 4인(2종/택1)",
+      "price": 1329000,
+      "normalPrice": 1790000,
+      "discount": 26,
+      "image": "assets/product-1138381.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/2100/1138/1138381_A1.jpg?v=20260706153413",
+      "category": "소파",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "NEW",
+        "할인쿠폰"
+      ],
+      "rating": 4.9,
+      "reviews": 57
+    },
+    {
+      "id": 746525,
+      "name": "MVME 프라임 노블 천연가죽 리클라이너 소파 4인",
+      "price": 1399000,
+      "normalPrice": 1835000,
+      "discount": 24,
+      "image": "assets/product-746525.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/2100/746/746525_A1.jpg?v=20260608165756",
+      "category": "소파",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.8,
+      "reviews": 973
+    },
+    {
+      "id": 916185,
+      "name": "[특가~10/19am10] 디어 오보에 거실장 세트 260cm (거실장 180cm + 보조수납장 83cm) (2종 택1)",
+      "price": 589000,
+      "normalPrice": 730000,
+      "discount": 19,
+      "image": "assets/product-916185.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/916/916185_A1.jpg?v=20251125104325",
+      "category": "거실장",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.8,
+      "reviews": 313
+    },
+    {
+      "id": 998964,
+      "name": "[특가~10/19am10] 아카이브 200cm 거실장 (2종 택1)",
+      "price": 589000,
+      "normalPrice": 750000,
+      "discount": 21,
+      "image": "assets/product-998964.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/998/998964_A1.jpg?v=20250804101313",
+      "category": "거실장",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.8,
+      "reviews": 225
+    },
+    {
+      "id": 821209,
+      "name": "클린트 어반 180cm 거실장 다릿발형 (3종/택1)",
+      "price": 339000,
+      "normalPrice": 421000,
+      "discount": 19,
+      "image": "assets/product-821209.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/821/821209_A1.jpg?v=20250804101312",
+      "category": "거실장",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.7,
+      "reviews": 551
+    },
+    {
+      "id": 145700,
+      "name": "클린트2 거실장 180cm 북유럽형(3종/택1)",
+      "price": 199000,
+      "normalPrice": 240000,
+      "discount": 17,
+      "image": "assets/product-145700.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/145/145700_A1.jpg?v=20251103110704",
+      "category": "거실장",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.9,
+      "reviews": 3567
+    },
+    {
+      "id": 1064854,
+      "name": "위드 세라믹 4인 식탁세트 1400(위드의자4포함)",
+      "price": 707000,
+      "normalPrice": 917000,
+      "discount": 23,
+      "image": "assets/product-1064854.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/1064/1064854_A1.jpg?v=20251020162817",
+      "category": "식탁",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.8,
+      "reviews": 197
+    },
+    {
+      "id": 1084735,
+      "name": "위드 세라믹 4인 식탁세트 1400 (위드라운드의자4포함)",
+      "price": 847000,
+      "normalPrice": 1057000,
+      "discount": 20,
+      "image": "assets/product-1084735.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/1084/1084735_A1.jpg?v=20251218113432",
+      "category": "식탁",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.9,
+      "reviews": 98
+    },
+    {
+      "id": 1118302,
+      "name": "리브업 세라믹 6인 모션 테이블 1750",
+      "price": 1390000,
+      "normalPrice": 1590000,
+      "discount": 13,
+      "image": "assets/product-1118302.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/1118/1118302_A1.jpg?v=20251103150354",
+      "category": "식탁",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.6,
+      "reviews": 102
+    },
+    {
+      "id": 819864,
+      "name": "포레 컴포트 6인 라운지세트 (벤치1, 코너벤치1, 원목의자2 포함)",
+      "price": 1278000,
+      "normalPrice": 1641000,
+      "discount": 22,
+      "image": "assets/product-819864.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/2100/819/819864_A1.jpg?v=20260706141245",
+      "category": "식탁",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.8,
+      "reviews": 339
+    },
+    {
+      "id": 811400,
+      "name": "바이엘 채널 데일리서랍형 옷장세트 화이트(높이216cm) 16종",
+      "price": 604800,
+      "normalPrice": 756000,
+      "discount": 20,
+      "image": "assets/product-811400.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/811/811400_A1.jpg?v=20260921111659",
+      "category": "옷장",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.8,
+      "reviews": 849
+    },
+    {
+      "id": 703619,
+      "name": "바이엘 채널 실속형 옷장세트 화이트(높이216cm) 16종",
+      "price": 454400,
+      "normalPrice": 568000,
+      "discount": 20,
+      "image": "assets/product-703619.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/703/703619_A1.jpg?v=20260921111443",
+      "category": "옷장",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.8,
+      "reviews": 993
+    },
+    {
+      "id": 1042685,
+      "name": "바이엘 채널 옷장 화이트 90/100cm(높이216cm)",
+      "price": 283720,
+      "normalPrice": 346000,
+      "discount": 18,
+      "image": "assets/product-1042685.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/2100/1042/1042685_A1.jpg?v=20260921104057",
+      "category": "옷장",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.8,
+      "reviews": 1267
+    },
+    {
+      "id": 1042688,
+      "name": "바이엘 채널 옷장 화이트 데일리서랍형 90/100cm(높이216cm)",
+      "price": 436800,
+      "normalPrice": 546000,
+      "discount": 20,
+      "image": "assets/product-1042688.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/2100/1042/1042688_A1.jpg?v=20260921104203",
+      "category": "옷장",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.8,
+      "reviews": 326
+    },
+    {
+      "id": 269222,
+      "name": "샘베딩 스테디 서랍장 5단 800(4종/택1)",
+      "price": 199900,
+      "normalPrice": 274000,
+      "discount": 27,
+      "image": "assets/product-269222.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/269/269222_A1.jpg?v=20251107140732",
+      "category": "서랍장",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.7,
+      "reviews": 3118
+    },
+    {
+      "id": 999858,
+      "name": "뮤트 화이트 4단서랍장(2종/택1)",
+      "price": 382000,
+      "normalPrice": 382000,
+      "discount": 0,
+      "image": "assets/product-999858.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/999/999858_A1.jpg?v=20240808133208",
+      "category": "서랍장",
+      "brand": "한샘",
+      "tags": [
+        "무료배송"
+      ],
+      "rating": 4.8,
+      "reviews": 225
+    },
+    {
+      "id": 743211,
+      "name": "스테이 서랍장 4단 800 아일랜드형 3종",
+      "price": 279900,
+      "normalPrice": 391000,
+      "discount": 28,
+      "image": "assets/product-743211.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/743/743211_A1.jpg?v=20240809112925",
+      "category": "서랍장",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.7,
+      "reviews": 977
+    },
+    {
+      "id": 274706,
+      "name": "샘베딩 스테디 서랍장 5단 600 멀티형(2종/택1)",
+      "price": 269900,
+      "normalPrice": 341000,
+      "discount": 21,
+      "image": "assets/product-274706.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/274/274706_A1.jpg?v=20251107140644",
+      "category": "서랍장",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.8,
+      "reviews": 650
+    },
+    {
+      "id": 1115049,
+      "name": "샘키즈 수납장 1305 크림오트밀",
+      "price": 159900,
+      "normalPrice": 228000,
+      "discount": 30,
+      "image": "assets/product-1115049.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/1115/1115049_A1.jpg?v=20251125100658",
+      "category": "샘키즈",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.8,
+      "reviews": 262
+    },
+    {
+      "id": 719636,
+      "name": "[특가~10/19am10] 샘키즈 수납장 1305 하프앤하프",
+      "price": 155900,
+      "normalPrice": 228000,
+      "discount": 32,
+      "image": "assets/product-719636.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/719/719636_A1.jpg?v=20251125105347",
+      "category": "샘키즈",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.8,
+      "reviews": 1126
+    },
+    {
+      "id": 829864,
+      "name": "[특가~10/19am10] 샘키즈 책장 1305",
+      "price": 129900,
+      "normalPrice": 179000,
+      "discount": 27,
+      "image": "assets/product-829864.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/2100/829/829864_A1.jpg?v=20260427111357",
+      "category": "샘키즈",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.8,
+      "reviews": 460
+    },
+    {
+      "id": 1134389,
+      "name": "[특가~10/19am10] 샘키즈 수납장 1305 + 행거장 435",
+      "price": 224360,
+      "normalPrice": 316000,
+      "discount": 29,
+      "image": "assets/product-1134389.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/2100/1134/1134389_A1.jpg?v=20260403132221",
+      "category": "샘키즈",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.7,
+      "reviews": 15
+    },
+    {
+      "id": 1077505,
+      "name": "티오 멀티 단독책상 세트 (옵션 택1)",
+      "price": 500080,
+      "normalPrice": 658000,
+      "discount": 24,
+      "image": "assets/product-1077505.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/1077/1077505_A1.jpg?v=20251127193438",
+      "category": "책상",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.8,
+      "reviews": 317
+    },
+    {
+      "id": 1028805,
+      "name": "티오 단독책상 세트 (옵션 택1)",
+      "price": 338800,
+      "normalPrice": 440000,
+      "discount": 23,
+      "image": "assets/product-1028805.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/1028/1028805_A1.jpg?v=20251202191027",
+      "category": "책상",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.9,
+      "reviews": 641
+    },
+    {
+      "id": 1028838,
+      "name": "티오 h형책상세트 (옵션 택1)",
+      "price": 228000,
+      "normalPrice": 300000,
+      "discount": 24,
+      "image": "assets/product-1028838.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/1028/1028838_A1.jpg?v=20251202191753",
+      "category": "책상",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.7,
+      "reviews": 197
+    },
+    {
+      "id": 1071024,
+      "name": "조이S 2 단독책상set 시리즈",
+      "price": 689000,
+      "normalPrice": 689000,
+      "discount": 0,
+      "image": "assets/product-1071024.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/1050/1071/1071024_A1.jpg?v=20251120111249",
+      "category": "책상",
+      "brand": "한샘",
+      "tags": [
+        "무료배송"
+      ],
+      "rating": 4.8,
+      "reviews": 942
+    },
+    {
+      "id": 37964,
+      "name": "샘 책장 5단 120cm 시공 (컬러 택1)",
+      "price": 109900,
+      "normalPrice": 144000,
+      "discount": 24,
+      "image": "assets/product-37964.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/2100/37/37964_A1.jpg?v=20260622223418",
+      "category": "책장",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.8,
+      "reviews": 11265
+    },
+    {
+      "id": 857489,
+      "name": "[특가~10/19am10] 샘 책장 5단 120cm 수납형 시공 (컬러 택1)",
+      "price": 195900,
+      "normalPrice": 257000,
+      "discount": 24,
+      "image": "assets/product-857489.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/2100/857/857489_A1.jpg?v=20260622222036",
+      "category": "책장",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.8,
+      "reviews": 504
+    },
+    {
+      "id": 99692,
+      "name": "[특가~10/19am10] 샘 책장 5단 80cm 수납형 시공 (컬러 택1)",
+      "price": 149900,
+      "normalPrice": 205000,
+      "discount": 27,
+      "image": "assets/product-99692.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/2100/99/99692_A1.jpg?v=20260622221448",
+      "category": "책장",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.8,
+      "reviews": 1198
+    },
+    {
+      "id": 101683,
+      "name": "샘파레트 책장 5단 120cm 시공(컬러 택1)",
+      "price": 109900,
+      "normalPrice": 139000,
+      "discount": 21,
+      "image": "assets/product-101683.jpg",
+      "source": "https://image.hanssem.com/hsimg/gds/2100/101/101683_A1.jpg?v=20260619115945",
+      "category": "책장",
+      "brand": "한샘",
+      "tags": [
+        "무료배송",
+        "할인쿠폰"
+      ],
+      "rating": 4.9,
+      "reviews": 2361
+    }
+  ]
+}
